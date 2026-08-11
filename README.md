@@ -464,11 +464,11 @@ Potential improvements include:
 
 ## 👤 Author
 
-**Rahul Kumar**
+**Abhishek kumar**
 
 Aspiring Data Analyst \| SQL \| Tableau \| Power BI \| Python \| Excel
 
--   **GitHub:** https://github.com/Rahul-kumar9990/MarketLens-Consumer-Spending-and-Engagement-Dashboard
+-   **GitHub:** https://github.com/Abhishekkumar7818/MarketPulse-Consumer-Behavior-Engagement-Analytics/edit/main/README.md
 -   **LinkedIn:** `Add your LinkedIn profile link`
 -   **Tableau Public:** `Add your Tableau Public profile link`
 
